@@ -1,4 +1,4 @@
-import requests, random, requests, json, pyfiglet,sys,time, os, uuid, webbrowser, fake_useragent
+import requests, random, requests, json, pyfiglet,sys,time, os, uuid, webbrowser
 
 Ab='\033[1;92m'
 aB='\033[1;91m'
